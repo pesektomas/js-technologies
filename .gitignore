@@ -1,3 +1,5 @@
 /01-npm/node_modules
 /02-webpack/node_modules
 /02-webpack/dist
+/03-babel/node_modules
+/03-babel/dist
